@@ -15,4 +15,6 @@ Classes inheriting from these blueprints must provide the actual implementation,
 # Reference:
 
 - [Tránh hiểu sai về Abstraction trong OOP](https://viblo.asia/p/tranh-hieu-sai-ve-abstraction-trong-oop-RnB5pJb6ZPG)
-- [Is interface highest level of abstraction?](https://stackoverflow.com/questions/1201081/is-interface-highest-level-of-abstraction)
+- [Is interface the highest level of abstraction?](https://stackoverflow.com/questions/1201081/is-interface-highest-level-of-abstraction)
+
+<!-- [Forbidden Link](https://chatgpt.com/share/678e5d69-4090-8013-aab5-233f725f84f8) -->
