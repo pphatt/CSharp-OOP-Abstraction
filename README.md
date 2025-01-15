@@ -10,11 +10,10 @@ does rather than `how` it does it.
 These tools act as blueprints that define methods or properties without specifying their implementations. 
 Classes inheriting from these blueprints must provide the actual implementation, enforcing a contract for derived classes.
 
-- **Note: The first article in Vietnamese is really good and worth reading through it**
+- **Note: The first article in Vietnamese is really good and worth reading through it.**
 
 # Reference:
 
 - [Tránh hiểu sai về Abstraction trong OOP](https://viblo.asia/p/tranh-hieu-sai-ve-abstraction-trong-oop-RnB5pJb6ZPG)
 - [Is interface the highest level of abstraction?](https://stackoverflow.com/questions/1201081/is-interface-highest-level-of-abstraction)
-
-<!-- [Forbidden Link](https://chatgpt.com/share/678e5d69-4090-8013-aab5-233f725f84f8) -->
+- [What is the difference between an abstract class and an interface ?](https://chatgpt.com/share/678e5d69-4090-8013-aab5-233f725f84f8)
